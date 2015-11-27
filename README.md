@@ -1,2 +1,2 @@
 # first
-just a trial
+I m just creating my first repository in github.
